@@ -1,12 +1,5 @@
-# Hello-World
+# About-Me
 Just another repository
 
-Hello Github,
-
-I love coding.. but I am not so good at it.
-I like to create codes which makes important for everyone..
-And People should be happy that this code has made
-So much in life for us...
-
-THANK YOU, 
-YOURS DIVESH200
+I am BCA student pursuing my second year at Alvas College.
+And I love to code and learn new stuffs. I enjoy coding and go for college fests for competitions.
